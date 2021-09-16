@@ -1,6 +1,6 @@
 Pixel Racing 
 ==========================
-(fork of Javascript Pseudo 3D Racer) [play it!](http://pixelracing.cc/)
+(fork of Javascript Pseudo 3D Racer) [play it!](https://andyjavadams.github.io/game-dulu.github.io/)
 
 Updates:
 - touch controls added, for mobiles (see 'touch.js')
